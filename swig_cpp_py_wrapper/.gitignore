@@ -1,0 +1,5 @@
+build/
+_swigdemo_module.cc
+_swigdemo.so
+swigdemo.py
+swigdemo.pyc
